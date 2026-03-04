@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Learn with me
 ### AWS
 <!--
